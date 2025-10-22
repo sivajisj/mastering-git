@@ -16,7 +16,7 @@ Open `simple-calculator.html` in your browser to use the calculator.
 ## Installation
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/simple-calculator.git
+   git clone https://github.com/<your-username>/mastering-git.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -40,7 +40,7 @@ Open `simple-calculator.html` in your browser to use the calculator.
   - Backspace: `Backspace` key
 
 ## Screenshots
-*(Add screenshots here if you want to showcase UI)*
+*![alt text](image.png)*
 
 ## License
 This project is licensed under the MIT License.
