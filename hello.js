@@ -1,1 +1,1 @@
-console.log("sj")
+console.log("sj");
